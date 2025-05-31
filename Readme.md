@@ -3,11 +3,6 @@
 <div align="center">
   
 <!-- Custom NAKSH Snake Animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nakshatara/nakshatara/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nakshatara/nakshatara/output/github-snake.svg">
-  <img alt="Snake Animation spelling NAKSH" src="https://raw.githubusercontent.com/nakshatara/nakshatara/output/github-snake-dark.svg">
-</picture>
 
 <!-- Animated Header -->
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Nakshatra&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=40&desc=AI%20%7C%20ML%20%7C%20Cybersecurity%20Expert&descAlignY=60&descSize=18)
