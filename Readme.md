@@ -1,11 +1,11 @@
-# <div align="center">🌟 Welcome to Nakshatra's Digital Universe 🌟</div>
+# <div align="center">🌟 Welcome to Nakshatara's Digital Universe 🌟</div>
 
 <div align="center">
   
 <!-- Custom NAKSH Snake Animation -->
 
 <!-- Animated Header -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Nakshatra&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=40&desc=AI%20%7C%20ML%20%7C%20Cybersecurity%20Expert&descAlignY=60&descSize=18)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Nakshatara&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=40&desc=AI%20%7C%20ML%20%7C%20Cybersecurity%20Expert&descAlignY=60&descSize=18)
 
 <!-- Dynamic Typing Animation -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=🤖+AI+%26+Machine+Learning+Engineer;🛡+Cybersecurity+Specialist;🎓+BITS+Pilani+Graduate;💻+Full+Stack+Developer;🚀+Innovation+Enthusiast)](https://git.io/typing-svg)
@@ -120,8 +120,8 @@ class NakshatraAI:
         return "The future belongs to those who can secure it with intelligence! 🤖🛡✨"
 
 # Initialize the profile
-nakshatra = NakshatraAI()
-print(f"Welcome to {nakshatra.name}'s digital universe! 🌟")
+nakshatara = NakshataraAI()
+print(f"Welcome to {nakshatara.name}'s digital universe! 🌟")
 
 
 ---
@@ -136,7 +136,7 @@ print(f"Welcome to {nakshatra.name}'s digital universe! 🌟")
 <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nakshatara&layout=compact&theme=tokyonight&hide_border=true&langs_count=10"/>
 
 <!-- Activity Graph -->
-[![Nakshatra's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nakshatara&theme=tokyo-night&hide_border=true&area=true)](https://github.com/nakshatara)
+[![Nakshatara's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nakshatara&theme=tokyo-night&hide_border=true&area=true)](https://github.com/nakshatara)
 
 </div>
 
